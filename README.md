@@ -1,0 +1,4 @@
+-> Hi, I’m @soumya-225
+-> I’m pursuing Bachelor of Technology in Computer Science and Engineering at IIT (ISM) Dhanbad .
+-> I’m currently doing App Development.
+-> Reach me at sks225dv@gmail.com
