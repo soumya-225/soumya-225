@@ -41,14 +41,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+  <!-- <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###
 
-<h2 align="left">My Stats</h2>
+<!-- <h2 align="left">My Stats</h2>
 
 ###
 
@@ -57,7 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya-225&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+### -->
 
 <h2 align="left">Connect With Me</h2>
 
